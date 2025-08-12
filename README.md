@@ -40,4 +40,3 @@ Install Dependencies
 ## Run the program
 python main.py
 
-![Bank Agent Output](relative/path/to/Output.png)
